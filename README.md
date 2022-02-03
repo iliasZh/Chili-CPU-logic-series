@@ -4,4 +4,4 @@ This is my [logisim-evolution](https://github.com/logisim-evolution/logisim-evol
 
 I gave up after implementing `mov` but that was really fun to follow nonetheless.
 
-Here is [mov imm showcase](https://drive.google.com/file/d/10VkdhS7zjMVFiJs3_uPzAnV879TBWs4M/view?usp=sharing).
+Here is [mov r,imm & mov r/r showcase](https://drive.google.com/file/d/10VkdhS7zjMVFiJs3_uPzAnV879TBWs4M/view?usp=sharing).
